@@ -1,5 +1,4 @@
 /.cache/
-/dist/
 /.idea/
 .gitignore
 package-lock.json
