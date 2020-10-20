@@ -1,6 +1,7 @@
 /.cache/
 /dist/
 /.idea/
-/.gitignore/
-/package-lock.json/
-/package-lock.json/
+.gitignore
+package-lock.json
+package.json
+/node_modules/
